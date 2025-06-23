@@ -362,3 +362,4 @@ develop & main branch로 merge할 때에는 pull request가 필요합니다. pul
     - Elasticsearch, Logstash, Kibana, Filebeat(ELK 스택)는 로그 수집, 분석, 시각화를 통해 애플리케이션 상태 및 문제를 쉽게 파악하고 대응
     - Kafka는 대용량의 데이터를 실시간으로 처리하고, 분산 환경에서 높은 확장성과 안정성을 제공하는 메시징 플랫폼
 -->
+
